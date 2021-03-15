@@ -1,0 +1,10 @@
+﻿  LongLong.cpp
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 2.1-2.8\Lab2.3(OOP)\LongLong.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 2.1-2.8\Lab2.3(OOP)\LongLong.cpp(5,49): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 2.1-2.8\Lab2.3(OOP)\LongLong.cpp(6,49): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 2.1-2.8\Lab2.3(OOP)\LongLong.cpp(16,20): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 2.1-2.8\Lab2.3(OOP)\LongLong.cpp(17,20): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  Source.cpp
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 2.1-2.8\Lab2.3(OOP)\Source.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Generating Code...
+  Lab2.3(OOP).vcxproj -> D:\Рабочий стол\дз\2семестр\ООП\Лаб 2.1-2.8\Lab2.3(OOP)\Debug\Lab2.3(OOP).exe
